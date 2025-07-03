@@ -2,7 +2,7 @@
 A diffusion model built from scratch in Pytorch and trained on facial data to make synthetic faces
 
 # How to use
-`
+```python
 # --- Saving the trained model ---
 # It's crucial to save the model after training.
 MODEL_SAVE_PATH = "model.pth"
@@ -62,7 +62,7 @@ print(f"Generated image saved to {output_image_path}")
 # plt.title("Generated Face")
 # plt.axis('off')
 # plt.show()
-`
+```
 
 
 *Sample Output*
