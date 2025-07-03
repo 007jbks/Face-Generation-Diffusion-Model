@@ -65,7 +65,7 @@ print(f"Generated image saved to {output_image_path}")
 ```
 
 
-*Sample Output* \n
-![generated_face](https://github.com/user-attachments/assets/663a2eb8-d548-44ae-93b0-86f40323e236)\n
+ # *Sample Output* 
+![generated_face](https://github.com/user-attachments/assets/663a2eb8-d548-44ae-93b0-86f40323e236)
 It can be clearly observed that the model can successfully generate facial features such as eyes, nose and mouth however suffers to make the face and head shape coherent.
 
